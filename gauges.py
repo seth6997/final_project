@@ -20,7 +20,6 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 RED = (255, 0, 0)
 
-
 class CustomGauge:
     def __init__(self):
         pygame.init()
